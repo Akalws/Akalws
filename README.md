@@ -7,3 +7,5 @@ I'm a data engineer who works with SQL, Python, and data pipelines.
 - Currently going deeper on PostgreSQL, data modeling, and cloud data pipelines (Azure Data Factory)
 
 Tools: SQL (PostgreSQL, MySQL), Python (pandas), AWS (Lambda, S3, RDS), Git
+
+[LinkedIn](https://www.linkedin.com/in/danielakalws) · danchase100@gmail.com
